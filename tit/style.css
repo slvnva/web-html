@@ -1,0 +1,37 @@
+body {
+	background: #556B2F;
+}
+.header {
+	background: #EEE8AA;
+	height: 200px;
+	margin-bottom: 6px;
+}
+.footer {
+	background: #E9967A;
+	height: 200px;
+	margin-bottom: 10px;
+}
+.content {
+	background: #FFFACD;
+	min-height: 2500px;
+	width: 74%;
+	float: left;
+}
+.sidebar {
+	background: #F0E68C;
+	min-height: 2500px;
+	width: 15%;
+	float: left;
+}
+.navig {
+	background: #BDB76B	;
+	min-height: 2500px;
+	width: 11%;
+	float: left;
+		
+}
+.text {
+	font-size: 18px;
+	text-align: justify;
+	text-indent: 15px;
+}
