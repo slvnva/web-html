@@ -1,10 +1,12 @@
 body {
 	background: #556B2F;
+	margin: 0;
 }
 .header {
 	background: #EEE8AA;
 	height: 200px;
 	margin-bottom: 6px;
+	padding: 0;
 }
 .footer {
 	background: #E9967A;
