@@ -38,3 +38,20 @@ body {
 	text-indent: 15px;
 	padding: 10px;
 }
+.spisok{
+	list-style: none;
+	padding: 0;
+}
+.spisok li {
+	padding: 10px 30px;
+	background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
+	border-bottom: 1px solid grey;
+	color: #506a6b;
+	font-size: 20px;
+	box-shadow: 0 5px 5px 0 rbga(0, 0, 0, .2);
+	margin-bottom: 5px;
+	border-radius: 20px;
+}
+.spisok li: last-child {
+border-bottom: none;
+}
